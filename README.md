@@ -1,1 +1,1 @@
-# openai-code-review-log
+# AI 代码评审组件评审日志仓库
